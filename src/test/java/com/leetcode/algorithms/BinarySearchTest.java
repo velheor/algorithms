@@ -1,3 +1,5 @@
+package com.leetcode.algorithms;
+
 import com.leetcode.algorithms.BinarySearch;
 import org.junit.jupiter.api.Test;
 
